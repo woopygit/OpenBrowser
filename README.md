@@ -23,7 +23,7 @@ All Donors Will be part of the sponsorship Div
 
 1. Clone the TrimoonCam2Telegram git repository ```pip install git+https://github.com/woopygit/OpenBrowser```
 2. Install setuptools ```pip install setuptools```
-3. ``` python3.7 absolute\path\to\TrimoonCam2Telegram\setup.py install ```
+3. ``` python3.7 absolute\path\to\OpenBrowser\setup.py install ```
 
 ### How to setup the package from PIP:
 
